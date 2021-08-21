@@ -6,9 +6,8 @@ Fill in your personal information and commit the changes with a meaningful commi
 
 * USC email address:
 
-* PhD program:
+* PhD program and year:
 
 * Research interests (5 keywords):
 
-* What you had for lunch today:
-
+* GitHub username:
