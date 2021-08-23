@@ -10,7 +10,7 @@ You will have to submit the challenge using GitHub classroom. Remember that I wi
 
     - Edit the Markdown document [`information.md`](information.md) to include your own details. Follow the instructions in [`GIT.md`](GIT.md) to commit your changes and push them to GitHub.
 
-2.  Look at [`assignment0.Rmd`](assignment0.Rmd). Add the missing code and write up the answers. Commit and push this change as above.
+2.  Look at [`RMarkdown-practice.Rmd`](RMarkdown-practice.Rmd). Fix the code and compile it into an .html file. Commit and push this change as above.
 
 Congratulations, you are finished!
 
@@ -22,12 +22,12 @@ __You do not have to and cannot actively submit your assignment!__
 
 How "submission" works in GitHub classroom:
 
-1. Make changes in your personal assignment repository and push them to GitHub.
-2. When the moment the assignment is due, GitHub will take a snapshot of the current state of your personal assignment repository. This snapshot is your submission.
+1. Commit the changes in your personal assignment repository and push them to GitHub.
+2. The moment the assignment is due, GitHub will take a snapshot of the current state of your personal assignment repository. This snapshot is your submission.
 
 So all you need to do is to make sure that you:
 
-1. Make your changes before the deadline
-2. __Publish your local changes to GitHub before the deadline__
+1. Commit your changes before the deadline
+2. __Push your local changes to GitHub before the deadline__
 
 

@@ -57,7 +57,7 @@ This is only relevant in the case that instructions change after you started an 
 3. Fetch of the latest assignment instructions from GitHub:
 
     ```
-    git remote add upstream https://github.com/lse-my459/[assignment_instruction_repository]/
+    git remote add upstream https://github.com/usc-poir613/[assignment_instruction_repository]/
     git fetch upstream
     ```
 

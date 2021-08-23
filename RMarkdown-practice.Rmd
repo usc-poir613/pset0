@@ -2,9 +2,9 @@
 
 This is an example of a simple RMarkdown file that can be edited and fixed.
 
-There is a chunk with R code below that contains an intentional mistake. 
+There is a chunk with R code below that contains an intentional mistake (or maybe two). 
 
-Fix it and compile the RMarkdown file. Then, stage the changes and commit to your repository.
+Fix it and compile the RMarkdown file. Then, commit to your repository and push the changes to GitHub.
 
 
 ```{r}
